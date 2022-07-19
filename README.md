@@ -76,3 +76,4 @@ A trivial web server that demonstrates the use of the
 
 
 bazzinga!
+semantic release,eh?
