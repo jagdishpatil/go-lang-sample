@@ -80,3 +80,6 @@ semantic release,eh?
 Damn, so many tests :(
 minor/feature release test
 patch/fix release test
+
+
+test
